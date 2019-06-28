@@ -5,6 +5,7 @@
   "author": "cescarlato <cescarlato@yahoo.com.br>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "vim": "^0.1.0"
   }
 }
